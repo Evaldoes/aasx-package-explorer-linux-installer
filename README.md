@@ -28,7 +28,7 @@ Follow the interactive prompts. To uninstall everything (install directory, Wine
 
 | Variable            | Default                             | Description                    |
 |----------------------|--------------------------------------|---------------------------------|
-| `AASX_INSTALL_DIR`  | `~/Aplicativos/AasxPackageExplorer` | Where the app gets installed    |
+| `AASX_INSTALL_DIR`  | `~/Apps/AasxPackageExplorer`        | Where the app gets installed    |
 | `AASX_WINEPREFIX`   | `~/.wine-aasx`                       | Dedicated Wine prefix for the app |
 
 ## Requirements
